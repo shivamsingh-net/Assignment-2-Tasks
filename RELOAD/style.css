@@ -1,0 +1,124 @@
+@font-face {
+    font-family: font;
+    src: url(./Arimo-VariableFont_wght.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    font-family: font;
+}
+main{
+    height: 100%;
+    width: 100%;
+}
+#first{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 40px 0px 40px;
+}
+#first i{
+    font-size: 50px;
+    font-weight: 800;
+    color: orangered;
+}
+#first h3{
+    color: #52070E;
+    font-size: 68px;
+    padding-right: 40px;
+    font-weight: 400;
+    letter-spacing: -8px;
+}
+#first p{
+    color: #52070E;
+    font-size: 13px;
+}
+#sec h3{
+    font-size: 68px;
+    color: #52070E;
+    align-items: center;
+    justify-self: center;
+     font-weight: 400;
+    letter-spacing: -8px;
+}
+#sec img{
+    width:120px ;
+    object-fit: cover;
+}
+#third{
+    height: 74%;
+    width: 100%;
+    display: flex;
+}
+#left{
+ width: 38%;
+}
+#left h3{
+    color: #52070E;
+    padding-top: 300px;
+    padding-left: 40px;
+    text-decoration: underline;
+    line-height: 24px;
+}
+#right{
+ height: 100%;
+ width: 62%;
+}
+#top{
+width: 100%;
+}
+#top h3{
+    padding-left: 10px;
+    color: #52070E;
+    font-size: 67px;
+     font-weight: 400;
+    letter-spacing: -8px;
+}
+span{
+color: #52070e90;
+}
+#top p{
+   color: #52070E;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+}
+#bt{
+height: 55%;
+width: 100%;
+display: flex;
+align-items: center;
+padding-right: 25px;
+    padding-left: 25px;
+justify-content: space-between;
+}
+#bt img{
+    height: 100%;
+    width: 200px;
+    border-radius: 20px;
+}
+#bottom{
+    width: 100%;
+    margin-top: 100px;
+    text-align: center;
+}
+#bottom h3{
+  color: #52070E;
+    font-size: 67px;
+     font-weight: 400;
+    letter-spacing: -8px; 
+}
+#bottom p{
+ padding-top: 20px;
+ padding-bottom: 10px;
+   color: #52070E;
+}
+
+
