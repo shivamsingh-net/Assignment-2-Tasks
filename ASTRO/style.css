@@ -96,7 +96,7 @@ span{
 
 }
 #bt1{
-    width: 30%;
+    width: 35%;
     border-bottom: 1px solid rgba(184, 180, 180, 0.813);
     padding-top: 20px;
     font-size: 11px;
@@ -107,7 +107,7 @@ span{
     padding-left: 70px;
 }
 #bt2{
-    width: 30%;
+    width: 35%;
     padding-top: 20px;
     font-size: 11px;
     padding-bottom: 13px;
@@ -331,7 +331,7 @@ img{
 }
 #feature{
     width: 100%;
-    margin-top: 90px;
+    margin-top: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -437,6 +437,9 @@ box-shadow: 0px 0px 7px rgba(166, 165, 165, 0.263);
     padding: 0px 10px;
     
 }
+#txt p{
+    font-size: 12px;
+}
 #pp{
  height: 100%;
  width: 100%;
@@ -454,7 +457,7 @@ height: 100%;
  gap: 50px;
 border-radius: 50px;
 position: absolute;
-bottom: -491px;
+bottom: -540px;
 left: 25px;
 box-shadow: 0px 0px 7px rgba(166, 165, 165, 0.263);
 }
